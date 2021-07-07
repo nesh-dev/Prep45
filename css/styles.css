@@ -5,11 +5,23 @@ body {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
 
 }
-
-h1 {
+/* 
+h1, h3 {
     color: #8bc34a;
+} */
+
+.ingridients h3{ 
+   color:brown;
+}
+
+.tech h3{ 
+    color: blueviolet;
 }
 
 p { 
     color: grey;
 }
+
+#unique { 
+    color: brown;
+} 
