@@ -1,0 +1,15 @@
+
+body { 
+    /* background-image: url("/images/guy.png"); */
+    /* background-image: url(images/guy.png); */
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+
+}
+
+h1 {
+    color: #8bc34a;
+}
+
+p { 
+    color: grey;
+}
